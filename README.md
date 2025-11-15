@@ -1,5 +1,12 @@
 # SasiPowerTest
-<img width="1920" height="914" alt="{AA138C1E-7670-40A8-8C5A-ECF63D6CDBBD}" src="https://github.com/user-attachments/assets/faa5801d-7b4d-420c-81f1-7f5c1252113b" />
+███████╗ █████╗ ███████╗██╗
+██╔════╝██╔══██╗██╔════╝██║
+███████╗███████║█████╗  ██║
+╚════██║██╔══██║██╔══╝  ██║
+███████║██║  ██║██║     ██║
+╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝
+
+=====  Sasi Power Test (SPT Algorithm)  =====
 
 A new arithmetic-progression-based algorithm to check if y is a power of x.
 
