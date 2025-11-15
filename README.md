@@ -1,7 +1,7 @@
 # SasiPowerTest
 A new arithmetic-progression-based algorithm to check if y is a power of x.
 
-##About section
+## About
 The Sasi Power Test (SPT) is a newly discovered algorithm invented by **Sasi**  
 to check whether a given number `y` is a perfect power of another number `x`.
 
@@ -40,12 +40,14 @@ def sasi_power_test(x, y):
 
     return False
 
-##Examples section
+## Examples
+
+```python
 sasi_power_test(3, 27)  # True
 sasi_power_test(5, 125) # True
 sasi_power_test(4, 64)  # True
 sasi_power_test(4, 32)  # False
 
-##Author Section
-Author  
+
+## Author
 Sasi, Creator of the Sasi Power Test.
